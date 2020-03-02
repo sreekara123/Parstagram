@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[]! ParstagramP2g.gif
+![](ParstagramP2g.gif)
